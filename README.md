@@ -103,10 +103,6 @@
 
 <br>
 
-<div align="center">
-  <!-- Streak Stats CORRIGIDO (Usando demolab.com em vez de herokuapp) -->
-  <img src="https://streak-stats.demolab.com?user=Allan177&locale=pt_BR&mode=daily&theme=dark&background=000000&border=006465&stroke=006465&ring=006465&fire=006465&currStreakLabel=006465&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888&hide_border=false" alt="streak stats"/>
-</div>
 
 ---
 
