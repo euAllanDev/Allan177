@@ -94,16 +94,14 @@ Tenho experiência prática na construção de APIs RESTful, microserviços e in
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeallandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeallandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 <br>
 
-<!-- Animação da Cobrinha (Snake) -->
-<!-- Nota: Para isso funcionar, você precisa configurar um GitHub Action. Se não quiser agora, pode apagar essa imagem abaixo. -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeallandev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
