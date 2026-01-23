@@ -1,80 +1,92 @@
-👋 Olá, sou o Allan!
+<div align="center">
+  <h1>Olá, eu sou o Jorge Allan! 👋</h1>
+  <h3>Desenvolvedor Full Stack em formação | Java & JavaScript Enthusiast</h3>
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia. Gosto de criar soluções práticas, explorar novas ferramentas e me desafiar constantemente. Atualmente, estou estudando **n8n** e automações, além de ferramentas como **GraphQL**, **Docker** e **TypeScript**.
-
----
-
-## 🚀 Tecnologias que uso
-
-### Linguagens
-| JavaScript | Java | Python | TypeScript |
-|------------|------|--------|------------|
-
-### Front-end
-| HTML5 | Tailwind | React | Bootstrap |
-|-------|------|--------|-----------|
-
-### Back-end & Banco de dados
-| Node.js | Express | Postgre | Spring |
-|---------|---------|--------|--------|
-
-### Ferramentas & Outros
-| Git | GitHub | Docker | VS Code |
-|-----|--------|--------|---------|
+  <p>
+    <a href="mailto:jorgeallandev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jorgeallandev%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🌱 Atualmente estudando
+### 👨‍💻 Sobre Mim
 
-- **n8n** (automações low-code)
-- **TypeScript**
-- **GraphQL**
-- **Docker**
-- **Gatsby.js**
+Estudante de **Análise e Desenvolvimento de Sistemas no IFPB** (2023-2026), com foco em desenvolvimento web Full Stack. 
 
----
+Tenho facilidade em transitar entre o ecossistema **Java (Spring Boot)** e **JavaScript (Node.js/React)**. Sou apaixonado por arquitetura de software, modelagem de banco de dados e DevOps básico com Docker. Minha experiência profissional anterior me proporcionou fortes habilidades de **comunicação, trabalho em equipe e gestão de tempo**, que hoje aplico no desenvolvimento de software.
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allan177&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan177&layout=compact&theme=radical&hide_title=true" alt="Linguagens Mais Usadas" />
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Allan177&theme=github&hide_border=true" alt="Gráfico de atividade" />
-  <br />
-  <img src="https://github.com/Allan177/github-contribution-chart.svg" alt="Contribuições GitHub" />
-</p>
+🚀 **Atualmente estudando:** Arquitetura de Microserviços e Otimização de Queries.
 
 ---
 
-## ✨ Projetos em Destaque
+### 🛠️ Tech Stack
 
-- [**Meu Site Pessoal**](https://github.com/Allan177/projeto1) – Criado com React e Node.js.
-- [**API de Tarefas**](https://github.com/Allan177/projeto2) – Back-end completo com Express e MySQL.
-- [**Gerenciador de Equipes**](https://github.com/Allan177/projeto3) – Sistema com Python e automações.
+<div align="center">
+
+#### **Back-end & Core**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Front-end**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Banco de Dados & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos desenvolvidos durante minha jornada acadêmica e pessoal:
+
+#### 🌐 **IFconnect**
+> *Plataforma de conexão acadêmica.*
+- **Stack:** Next.js, TypeScript, Java Spring, Redis, MongoDB, PostgreSQL.
+- **Destaque:** Gerência de múltiplos containers Docker e integração de APIs externas.
+
+#### 🍽️ **Cardápio Online Multi-lojas**
+> *Sistema para gerenciamento de cardápios dinâmicos.*
+- **Stack:** Java, Spring MVC, Thymeleaf, PostgreSQL.
+- **Destaque:** Persistência de dados robusta e interface dinâmica para múltiplas lojas.
+
+#### 📋 **Gestão de Tarefas em Grupo**
+> *API e Interface para controle de tarefas.*
+- **Stack:** Node.js, Express, PostgreSQL, JWT.
+- **Destaque:** Autenticação segura, controle de permissões e integração completa de banco de dados.
 
 ---
 
-## 📅 Linha do Tempo
+### 📊 GitHub Stats
 
-| Ano  | Aprendizados e Projetos |
-|------|--------------------------|
-| 2025 | Foco em **n8n**, **Docker**, **GraphQL** e **TypeScript** |
-| 2024 | Desenvolvimento com **React**, **Node.js** e **APIs** |
-| 2023 | Projetos em **Java**, **JavaScript** e foco em **back-end** |
-
----
-
-## 🤝 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.instagram.com/euallan17" target="_blank">
-    <img src="https://img.shields.io/badge/@euallan17-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/invite/VjjQc4ZQ" target="_blank">
-    <img src="https://img.shields.io/badge/Allan%20Clips%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
+</div>
 
 ---
+
+### 🧠 Competências
+![Communication](https://img.shields.io/badge/-Comunicação-000?style=flat&logo=microsoft-teams&logoColor=white)
+![Teamwork](https://img.shields.io/badge/-Trabalho%20em%20Equipe-000?style=flat&logo=crowdsource&logoColor=white)
+![Proactivity](https://img.shields.io/badge/-Proatividade-000?style=flat&logo=spark&logoColor=white)
+![Adaptability](https://img.shields.io/badge/-Adaptabilidade-000?style=flat&logo=spinrilla&logoColor=white)
+
+<div align="center">
+  <br>
+  <i>"Busco constantemente evoluir tecnicamente e entregar soluções eficientes e escaláveis."</i>
+</div>
