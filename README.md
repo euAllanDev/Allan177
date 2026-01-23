@@ -101,7 +101,7 @@ Tenho experiência prática na construção de APIs RESTful, microserviços e in
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeallandev&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euAllanDev&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
