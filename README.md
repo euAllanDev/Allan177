@@ -1,92 +1,113 @@
+<!-- Banner Principal (Opcional - substitua o link pela sua capa se tiver uma) -->
 <div align="center">
-  <h1>Olá, eu sou o Jorge Allan! 👋</h1>
-  <h3>Desenvolvedor Full Stack em formação | Java & JavaScript Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Jorge%20Allan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Node.js&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
+  
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Dev+Full+Stack+em+Forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+Node.js;Next.js+%7C+React+%7C+Docker;Modelagem+de+Dados+%26+APIs" alt="Typing SVG" />
+  </a>
 
   <p>
-    <a href="mailto:jorgeallandev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-jorgeallandev%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
-    </a>
     <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jorgeallandev@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
----
+<br>
 
 ### 👨‍💻 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas no IFPB** (2023-2026), com foco em desenvolvimento web Full Stack. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPB** e um entusiasta por arquitetura de software. Meu foco é criar soluções escaláveis unindo a robustez do **Java** com a agilidade do **JavaScript**.
 
-Tenho facilidade em transitar entre o ecossistema **Java (Spring Boot)** e **JavaScript (Node.js/React)**. Sou apaixonado por arquitetura de software, modelagem de banco de dados e DevOps básico com Docker. Minha experiência profissional anterior me proporcionou fortes habilidades de **comunicação, trabalho em equipe e gestão de tempo**, que hoje aplico no desenvolvimento de software.
-
-🚀 **Atualmente estudando:** Arquitetura de Microserviços e Otimização de Queries.
+Tenho experiência prática na construção de APIs RESTful, microserviços e interfaces dinâmicas. Venho de um background em organização de eventos, o que me ensinou que **soft skills** (comunicação e gestão de tempo) são tão vitais quanto um código limpo.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Arsenal Tecnológico
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Projetos Principais
+
+| Projeto | Detalhes & Stack |
+| :--- | :--- |
+| **🌐 IFconnect** | Plataforma de conexão acadêmica com gerência de múltiplos containers.<br><br>![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-Spring-orange?style=flat-square&logo=java) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) |
+| **🍽️ Cardápio Multi-lojas** | Sistema MVC para gestão de cardápios dinâmicos e persistência robusta.<br><br>![Java](https://img.shields.io/badge/Java-Spring_MVC-red?style=flat-square&logo=java) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=flat-square&logo=thymeleaf) ![Postgres](https://img.shields.io/badge/Postgres-blue?style=flat-square&logo=postgresql) |
+| **📋 Task Manager** | API e Interface para gestão de tarefas em grupo com autenticação JWT.<br><br>![NodeJS](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![JWT](https://img.shields.io/badge/JWT-Auth-pink?style=flat-square&logo=jsonwebtokens) |
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
 
-#### **Back-end & Core**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
 
-#### **Front-end**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Banco de Dados & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
+<!-- Animação da Cobrinha (Snake) -->
+<!-- Nota: Para isso funcionar, você precisa configurar um GitHub Action. Se não quiser agora, pode apagar essa imagem abaixo. -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
-
-Aqui estão alguns dos projetos desenvolvidos durante minha jornada acadêmica e pessoal:
-
-#### 🌐 **IFconnect**
-> *Plataforma de conexão acadêmica.*
-- **Stack:** Next.js, TypeScript, Java Spring, Redis, MongoDB, PostgreSQL.
-- **Destaque:** Gerência de múltiplos containers Docker e integração de APIs externas.
-
-#### 🍽️ **Cardápio Online Multi-lojas**
-> *Sistema para gerenciamento de cardápios dinâmicos.*
-- **Stack:** Java, Spring MVC, Thymeleaf, PostgreSQL.
-- **Destaque:** Persistência de dados robusta e interface dinâmica para múltiplas lojas.
-
-#### 📋 **Gestão de Tarefas em Grupo**
-> *API e Interface para controle de tarefas.*
-- **Stack:** Node.js, Express, PostgreSQL, JWT.
-- **Destaque:** Autenticação segura, controle de permissões e integração completa de banco de dados.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
-</div>
-
----
-
-### 🧠 Competências
-![Communication](https://img.shields.io/badge/-Comunicação-000?style=flat&logo=microsoft-teams&logoColor=white)
-![Teamwork](https://img.shields.io/badge/-Trabalho%20em%20Equipe-000?style=flat&logo=crowdsource&logoColor=white)
-![Proactivity](https://img.shields.io/badge/-Proatividade-000?style=flat&logo=spark&logoColor=white)
-![Adaptability](https://img.shields.io/badge/-Adaptabilidade-000?style=flat&logo=spinrilla&logoColor=white)
-
-<div align="center">
-  <br>
-  <i>"Busco constantemente evoluir tecnicamente e entregar soluções eficientes e escaláveis."</i>
+  <i>"A disciplina é a mãe do sucesso."</i>
 </div>
