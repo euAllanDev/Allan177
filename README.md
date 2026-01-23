@@ -90,28 +90,26 @@
 ---
 
 <!-- Estatísticas Customizadas com a cor #006465 -->
+<!-- Estatísticas Customizadas com a cor #006465 e Servidor Estável -->
 ## 📊 Métricas do GitHub
 
 <div align="center">
-  <!-- Stats Card: Fundo Preto, Borda Verde, Ícones Verdes, Texto Branco -->
+  <!-- Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euAllanDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=006465&icon_color=006465&text_color=ffffff&border_color=006465"/>
   
-  <!-- Top Langs: Mesma paleta -->
+  <!-- Top Langs -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euAllanDev&layout=compact&hide_border=false&langs_count=6&bg_color=000000&title_color=006465&icon_color=006465&text_color=ffffff&border_color=006465"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Streak Stats: Mesma paleta -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euAllanDev&hide_border=false&background=000000&ring=006465&fire=006465&currStreakLabel=006465&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888&border=006465" alt="streak stats"/>
+  <!-- Streak Stats CORRIGIDO (Usando demolab.com em vez de herokuapp) -->
+  <img src="https://streak-stats.demolab.com?user=euAllanDev&locale=pt_BR&mode=daily&theme=dark&background=000000&border=006465&stroke=006465&ring=006465&fire=006465&currStreakLabel=006465&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888&hide_border=false" alt="streak stats"/>
 </div>
 
-<br>
+---
 
-<!-- Rodapé com animação Snake (Opcional, mas muito popular em perfis Dev) -->
 <div align="center">
-  <img src="https://github.com/euAllanDev/euAllanDev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  <br>
   <i>"A disciplina é a mãe do sucesso."</i>
 </div>
