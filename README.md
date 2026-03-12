@@ -67,3 +67,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euAllanDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=006465&icon_color=006465&text_color=ffffff&border_color=006465"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euAllanDev&layout=compact&hide_border=false&langs_count=6&bg_color=000000&title_color=006465&icon_color=006465&text_color=ffffff&border_color=006465"/>
 </div>
+/>
