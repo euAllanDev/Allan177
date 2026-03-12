@@ -1,8 +1,5 @@
 <!-- Replace text in banner and typing effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006465&height=250&section=header&text=Jorge%20Allan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Node.js&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
+<
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=006465&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+Training;Java+|+Spring+Boot+|+Node.js;Next.js+|+React+|+Docker;Data+Modeling+&+API+Development" alt="Typing SVG" />
